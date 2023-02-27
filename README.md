@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View Solution](https://www.frontendmentor.io/solutions/result-summary-component-SAoqWI1v38)
+- Live Site URL: [View live site](https://codibility.github.io/results-summary-component/)
 
 ## Author
 
